@@ -1,52 +1,33 @@
 # 👋 Hi, I'm Eliab Lemus
 
-💻 **DevOps | SRE | Cloud Engineer | Full Stack Developer**
+💻 **DevOps | SRE | Cloud Engineer | AI Automation**
 
-I’m a Systems Engineer with **7+ years of experience** working at **PayPal and Xoom**. My work has focused on **infrastructure automation, CI/CD pipelines, cloud migrations (GCP), observability, and scalable systems**. I also have solid experience building backend services and APIs, with frontend exposure in React Native.
+I build **reliable infrastructure and smart automations**.  
+My focus is on **DevOps, cloud migrations, CI/CD, observability**, and recently on **AI-powered bots and n8n workflows** that connect APIs and automate real-world tasks.  
+
+🔹 From cloud engineering to AI integrations, I enjoy designing systems that scale and simplify operations.  
+🔹 For detailed work history and experience → [LinkedIn](https://linkedin.com/in/eliablemus)  
 
 ---
 
-## 🔧 Tech Stack & Skills
+## 🔧 Tech Stack
 
 - **Languages:** Python, Node.js, JavaScript, PHP  
-- **Backend:** Node.js (APIs, middlewares), PHP/Laravel, Python (Flask/Django)  
-- **Frontend:** React Native, Bootstrap  
+- **DevOps & Cloud:** Docker, Kubernetes, Jenkins, GitLab CI/CD, GitHub Actions, Terraform, Ansible, Puppet  
+- **Cloud Providers:** Google Cloud (Cloud SQL, migrations), AWS (projects)  
+- **Automation & AI:** n8n workflows, AI Agents (OpenRouter APIs), WhatsApp bot integrations  
 - **Databases:** MySQL, PostgreSQL, MongoDB, Elasticsearch, Etcd, Redis  
-- **DevOps & Cloud:** Docker, Kubernetes (CKA in progress), Jenkins, GitLab CI/CD, GitHub Actions, Terraform, Ansible, Puppet  
-- **Cloud Providers:** Google Cloud Platform (Cloud SQL, migrations), AWS (projects)  
-- **Observability:** Splunk, Datadog, Grafana, Nagios, PagerDuty  
-- **Other Tools:** Git, Bash, JFrog Artifactory, Foreman, Linux  
+- **Observability:** Splunk, Datadog, Grafana, PagerDuty  
 
 ---
 
-## 📌 Experience Highlights
+## 🚀 Featured Projects
 
-- **PayPal – Site Reliability Engineer (2023–2025)**  
-  - Migrated Artifactory DB to **GCP Cloud SQL** with ProxySQL & replication; only **30 min downtime**.  
-  - Reduced incidents by **80%** and improved performance by **60%** through automation & tuning.  
-  - Implemented proactive monitoring with **Splunk & Datadog**, lowering MTTR.  
-
-- **Xoom (PayPal) – DevOps / Database Engineer (2017–2023)**  
-  - Designed and maintained **Elasticsearch & Etcd clusters** with Puppet & Docker.  
-  - Migrated QA services to containers, cutting setup time by **60%**.  
-  - Automated pipelines with **Jenkins & RSpec** to validate infrastructure.  
-
-- **Xoom (PayPal) – Software Engineer (2015–2017)**  
-  - Built internal **Node.js APIs** with 100% test coverage.  
-  - Contributed to **React Native UI/UX** components and QA automation pipelines.  
+- 🤖 **Eliabot** – WhatsApp bot powered by n8n + AI agents with railguards for safe automation.  
+- 🛒📊 **Price Scraper** *(in progress)* – Real-time supermarket price comparison using Scrapy + Playwright.  
+- 📚🐳 **docker-rachel** – Dockerized **offline book library (RACHEL project)** for easy deployment and access to educational content without internet.  
+- ⚡ **Infra Automation** – Puppet modules + Jenkins pipelines for reproducible deployments.  
 
 ---
 
-## 🎓 Education
-- **B.Eng. in Computer Science and Systems**  
-  Universidad de San Carlos de Guatemala (Graduated 2024)
-
----
-
-## 🌐 Let's Connect
-- [LinkedIn](https://linkedin.com/in/eliablemus)  
-- [GitHub](https://github.com/EliabLemus)  
-- [GitLab](https://gitlab.com/EliabLB)  
-
----
-⭐️ Always open to collaborations in **DevOps, SRE, Cloud Engineering, and Automation projects**.
+⭐️ Always open to collaborations in **DevOps, Cloud Engineering, and AI automation**.
