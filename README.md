@@ -9,24 +9,23 @@ My focus is on **DevOps, cloud migrations, CI/CD, observability**, and recently 
 🔹 For detailed work history → [LinkedIn](https://linkedin.com/in/eliablemus)  
 
 ---
-
 ## 🔧 Tech Stack
 
-[<img align="left" alt="Kubernetes" width="30px" src="https://img.icons8.com/color/344/kubernetes.png" />](https://kubernetes.io/)  
-[<img align="left" alt="Docker" width="30px" src="https://img.icons8.com/fluency/344/docker.png" />](https://www.docker.com/)  
-[<img align="left" alt="Terraform" width="30px" src="https://img.icons8.com/color/344/terraform.png" />](https://www.terraform.io/)  
-[<img align="left" alt="Jenkins" width="30px" src="https://img.icons8.com/color/344/jenkins.png" />](https://www.jenkins.io/)  
-[<img align="left" alt="Google Cloud" width="30px" src="https://img.icons8.com/color/344/google-cloud.png" />](https://cloud.google.com/)  
-[<img align="left" alt="AWS" width="30px" src="https://img.icons8.com/color/344/amazon-web-services.png" />](https://aws.amazon.com/)  
-[<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/344/python.png" />](https://www.python.org/)  
-[<img align="left" alt="Node.js" width="30px" src="https://img.icons8.com/color/344/nodejs.png" />](https://nodejs.org/)  
-[<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/344/javascript--v1.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[<img align="left" alt="MySQL" width="30px" src="https://img.icons8.com/color/344/mysql-logo.png" />](https://www.mysql.com/)  
-[<img align="left" alt="PostgreSQL" width="30px" src="https://img.icons8.com/color/344/postgreesql.png" />](https://www.postgresql.org/)  
-[<img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/344/mongodb.png" />](https://www.mongodb.com/)  
-[<img align="left" alt="Grafana" width="30px" src="https://img.icons8.com/color/344/grafana.png" />](https://grafana.com/)  
-
-<br /><br />
+<p align="left">
+  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" width="40"/>
+  <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" width="40"/>
+  <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins" width="40"/>
+  <img src="https://img.icons8.com/color/48/google-cloud.png" alt="Google Cloud" width="40"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" width="40"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40"/>
+  <img src="https://img.icons8.com/color/48/grafana.png" alt="Grafana" width="40"/>
+</p>
 
 ---
 
