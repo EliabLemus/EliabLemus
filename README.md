@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eliab Lemus
 
-💻 **DevOps | SRE | Cloud Engineer | AI Automation**
+💻 **AI Platform Leader | Driving Automation Strategy & AI-First Transformation**
 
 I build **reliable infrastructure and smart automations**.  
 My focus is on **DevOps, cloud migrations, CI/CD, observability**, and recently on **AI-powered bots and n8n workflows** that connect APIs and automate real-world tasks.  
