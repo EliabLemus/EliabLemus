@@ -2,8 +2,11 @@
 
 💻 **AI Platform Leader | Driving Automation Strategy & AI-First Transformation**
 
-I build **reliable infrastructure and smart automations**.  
-My focus is on **DevOps, cloud migrations, CI/CD, observability**, and recently on **AI-powered bots and n8n workflows** that connect APIs and automate real-world tasks.  
+I lead AI-first transformation initiatives that drive measurable business impact. Currently building enterprise AI platforms serving 500+ users across multiple regions and business units.
+
+My team delivers automation solutions that generate significant ROI: $37K-$183K risk mitigation, 95% reduction in manual processes, and 60% AI-assisted code generation across organizations.
+
+I specialize in scaling AI adoption, designing automation strategies, and building platforms that connect business operations with intelligent workflows. From n8n automation pipelines to enterprise AI agent deployment, I focus on turning operational pain points into competitive advantages.
 
 🔹 From cloud engineering to AI integrations, I enjoy designing systems that scale and simplify operations.  
 🔹 For detailed work history → [LinkedIn](https://linkedin.com/in/eliablemus)  
