@@ -5,7 +5,6 @@
 I lead AI-first transformation initiatives that drive measurable business impact. Currently building enterprise AI platforms serving 500+ users across multiple regions and business units.
 
 **Key Results:**
-- $37K-$183K risk mitigation through intelligent automation
 - 95% reduction in manual processes via AI-powered workflows
 - 60% AI-assisted code generation across engineering teams
 
